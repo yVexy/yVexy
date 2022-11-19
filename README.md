@@ -9,6 +9,7 @@
 
 [![Website](https://img.shields.io/website?label=Vexy.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DhvBkYhG7p)
+[![Discord Presence](https://lanyard.cnrad.dev/api/435877436459188234)](https://discord.com/users/435877436459188234)
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api?username=yVexy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

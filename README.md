@@ -34,4 +34,4 @@ Hello, my nickname is Vexy and I am a beginner developer. I plan to gain knowled
         </a>
  </a>
  
-![snake gif](https://github.com/yVexy/yVexy/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/yVexy/yVexy/blob/output/github-contribution-grid-snake.svg)

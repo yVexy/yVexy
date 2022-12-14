@@ -33,4 +33,5 @@ Hello, my nickname is Vexy and I am a beginner developer. I plan to gain knowled
                 <img height="160em" src="https://streak-stats.demolab.com/?user=yVexy&theme=radical"/>
         </a>
  </a>
+ 
 ![snake gif](https://github.com/yVexy/yVexy/blob/output/github-contribution-grid-snake.gif)

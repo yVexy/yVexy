@@ -27,9 +27,6 @@ Hello, my nickname is Vexy and I am a beginner developer. I plan to gain knowled
 <a href='https://github.com/yVexy/github-stats-transparent'>
   
 <a href="#">
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api?username=yVexy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://github-readme-stats-yngtukzpf-focamacho.vercel.app/api/top-langs/?username=yVexy&layout=compact&langs_count=7&theme=radical&custom_title=Most%20Used%20Languages%20(Public%20Repos)"/>
-                <br/>
                 <img height="160em" src="https://streak-stats.demolab.com/?user=yVexy&theme=radical"/>
         </a>
  </a>

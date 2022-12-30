@@ -1,6 +1,6 @@
-## Hey 👋, I'm Vexy!
+## Hey 👋, I'm Frostty!
 
-Hello, my nickname is Vexy and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Java.
+Hello, my nickname is Frostty and I am a beginner developer. I plan to gain knowledge in several programming languages 🤖, learn to make mobile applications 📱 and also games. I am currently learning Java.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/435877436459188234)](https://discord.com/users/435877436459188234)
 <br/>
